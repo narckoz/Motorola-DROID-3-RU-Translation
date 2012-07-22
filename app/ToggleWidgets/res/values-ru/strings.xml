@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Виджеты-переключатели</string>
+    <string name="gps_app_name">Переключатель GPS</string>
+    <string name="airplane_app_name">Переключатель режима полета</string>
+    <string name="wifi_app_name">Переключатель Wi-Fi</string>
+    <string name="bluetooth_app_name">Переключатель Bluetooth</string>
+    <string name="widget_description">Просмотр и управление режимом полета</string>
+    <string name="widget_description_bt">Просмотр и управление состоянием Bluetooth</string>
+    <string name="widget_description_wifi">Просмотр и управление состоянием Wi-Fi</string>
+    <string name="widget_description_gps">Просмотр и управление состоянием GPS</string>
+    <string name="StatusOn">ВКЛ</string>
+    <string name="StatusOff">ВЫКЛ</string>
+    <string name="AirplanetoastText">Режим полета недоступен</string>
+    <string name="BluetoothtoastText">Bluetooth недоступен</string>
+    <string name="GPStoastText">GPS недоступен</string>
+    <string name="WifitoastText">WiFi недоступен</string>
+    <string name="location_restriction_enabled">Включено ограничение местоположения</string>
+</resources>

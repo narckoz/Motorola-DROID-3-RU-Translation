@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="preferences_alert_type_labels">
+        <item>Сигнал</item>
+        <item>Уведомление в строке состояния</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>7 часов</item>
+        <item>8 часов</item>
+        <item>9 часов</item>
+        <item>10 часов</item>
+        <item>11 часов</item>
+        <item>12 часов</item>
+        <item>18 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>3 дня</item>
+        <item>4 дня</item>
+        <item>1 неделя</item>
+        <item>2 недели</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>0 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>7 часов</item>
+        <item>8 часов</item>
+        <item>9 часов</item>
+        <item>10 часов</item>
+        <item>11 часов</item>
+        <item>12 часов</item>
+        <item>18 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>3 дня</item>
+        <item>4 дня</item>
+        <item>1 неделя</item>
+        <item>2 недели</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>420</item>
+        <item>480</item>
+        <item>540</item>
+        <item>600</item>
+        <item>660</item>
+        <item>720</item>
+        <item>1080</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>5760</item>
+        <item>10080</item>
+        <item>20160</item>
+    </string-array>
+    <string-array name="priority_value_labels">
+        <item>Высокий</item>
+        <item>Нормальный</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="preferences_key_days_to_delete_tasks_labels">
+        <item>5 дней</item>
+        <item>10 дней</item>
+        <item>15 дней</item>
+        <item>20 дней</item>
+        <item>25 дней</item>
+        <item>30 дней</item>
+        <item>35 дней</item>
+        <item>40 дней</item>
+    </string-array>
+    <string-array name="preferences_key_days_to_delete_tasks_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="completed_percentage_labels">
+        <item>В процессе</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+    </string-array>
+	    <string-array name="prefEntries_widget_showtasks_lables">
+        <item>Все задачи</item>
+        <item>Прошедшие</item>
+        <item>Ожидаемые сегодня</item>
+        <item>Избранные</item>
+        <item>По приоритету</item>
+    </string-array>
+</resources>

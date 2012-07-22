@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Управление уведомлениями</string>
+    <string name="hard_reset_failed">Невозможно сделать полный сброс устройства.</string>
+    <string name="needUpgradeNoneFound">Программное обеспечение на вашем телефоне устарело для автоматического обновления. Пожалуйста, свяжитесь с вашим оператором для обновления программного обеспечения на вашем телефоне.</string>
+    <string name="hard_reset_on_ok">Улучшение устройства, после нажатия ok произойдет hard reset. Не улучшенные устройства просто восстановятся.</string>
+    <string name="accountDisabled">Ошибка при входе в ваш аккаунт. Пожалуйста, обратитесь в сервисную службу.</string>
+    <string name="blurPasswordMismatch">Пароль вашего аккаунта не совпадает с тем, что вы сохранили. Если вы недавно изменили пароль, пожалуйста, повторно введите новый пароль.</string>
+    <string name="notificationTitle">Оповещение Сети</string>
+    <string name="accountDeleted">Ваш аккаунт был удален, пожалуйста, перейдите на страницу Настройки, затем SD &amp; память и выберите Сброс к заводским установкам</string>
+    <string name="wrongDevice">Аккаунт, который вы используете, принадлежит другому устройству. Пожалуйста, обратитесь в сервисную службу для восстановления устройства.</string>
+    <string name="wrong_password_subject">{0} имя пользователя или пароль неверны.</string>
+    <string name="wrong_password_title">Аккаунты</string>
+    <string name="more_info">Больше Информации</string>
+    <string name="error">Ошибка</string>
+    <string name="google_privacy_summary">Конфиденциальность Google</string>
+    <string name="google_privacy_body">Политику конфиденциальности, по использованию Google и Android сервисов, вы можете найти в Настройки/О телефоне/Правовая информация/Правовая информация Google.</string>
+    <string name="view_terms">Открыть политику</string>
+    <string name="blur_account_error">Ошибка сервисного аккаунта Motorola</string>
+    <string name="unverified_motoblur_acnt">Непроверенный аккаунт MOTOBLUR</string>
+    <string name="wrong_password_message">Если вы недавно изменили пароль, пожалуйста, повторно введите новый пароль.</string>
+</resources>

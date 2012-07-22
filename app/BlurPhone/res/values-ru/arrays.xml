@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="voice_quality_ui_values">
+        <item>Нормальное</item>
+        <item>Чистое</item>
+        <item>Четкое</item>
+        <item>Ясное</item>
+    </string-array>
+    <string-array name="recent_call_types">
+        <item>Все вызовы</item>
+        <item>Пропущенные вызовы</item>
+        <item>Входящие вызовы</item>
+        <item>Исходящие вызовы</item>
+    </string-array>
+    <string-array name="vq_list_items">
+        <item>Стандартный</item>
+        <item>Сбалансированный</item>
+        <item>Ясное</item>
+        <item>Экстра ясное</item>
+    </string-array>
+    <string-array name="vq_list_substrings">
+        <item>Теплый; глубокие басы. Стандартная настройка</item>
+        <item>Четкий; чистый. Популярная настройка</item>
+        <item>Голос кажется громче</item>
+        <item>Голос неравномерный. Используется реже</item>
+    </string-array>
+    <string-array name="caller_id_display_values">
+        <item>Только звонок</item>
+        <item>ID контакта при звонке</item>
+        <item>Caller ID repeat</item>
+    </string-array>
+    <string-array name="caller_id_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="equal_Service_Number">
+        <item>*86</item>
+        <item>611</item>
+        <item>*611</item>
+        <item>\#611</item>
+        <item>411</item>
+        <item>*411</item>
+        <item>\#411</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Сеть по умолчанию</item>
+        <item>Спрятать номер</item>
+        <item>Показать номер</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>ПО УМОЛЧАНИЮ</item>
+        <item>СПРЯТАТЬ</item>
+        <item>ПОКАЗАТЬ</item>
+    </string-array>
+    <string-array name="tty_display_values">
+        <item>TTY полный</item>
+        <item>TTY + Разговор (VCO)</item>
+        <item>TTY + Hear (HCO)</item>
+        <item>TTY Выкл. (по умолчанию)</item>
+    </string-array>
+    <string-array name="tty_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="select_network_display_values">
+        <item>Только 2G\nсохраняет энергию батареи</item>
+        <item>Только 3G\nлучшее быстродействие</item>
+        <item>Авто\nпо умолчанию</item>
+    </string-array>
+    <string-array name="select_network_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Всемирный</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA / EvDo авто</item>
+        <item>GSM / WCDMA авто</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM / WCDMA предпочтительно</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values">
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_d2we_34387">
+        <item>Всемирный</item>
+        <item>CDMA</item>
+        <item>GSM/UMTS</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_d2we_34387">
+        <item>7</item>
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>Global</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_values_lte">
+        <item>7</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="select_network_display_values_34387">
+        <item>Только GSM\nсохраняет энергию батареи</item>
+        <item>Только UMTS\nлучшее быстродействие</item>
+        <item>Авто\nпо умолчанию</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (авто режим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (WCDMA предпочтительно)</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только дома</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_rm_system_select_choices">
+        <item>Только дома</item>
+        <item>Автоматически A</item>
+        <item>Автоматически B</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Только домашние сети</item>
+        <item>Чужие сети</item>
+        <item>Любые сети</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Только CDMA</item>
+        <item>Только EvDo</item>
+    </string-array>
+    <string-array name="cdma_network_preferences_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY выкл.</item>
+        <item>TTY полн.</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычный</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="entries_voicemail_choose_vmvvm">
+        <item>Голосовая почта</item>
+        <item>Визуальная голосовая почта</item>
+        <item>Выбирать всегда</item>
+    </string-array>
+    <string-array name="entry_values_voicemail_choose_vmvvm">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_vvm_roaming_prompt">
+        <item>Голосовая почта</item>
+        <item>Визуальная голосовая почта</item>
+        <item>Выбирать всегда</item>
+    </string-array>
+    <string-array name="entry_values_vvm_roaming_prompt">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

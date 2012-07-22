@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="locations_src">
+        <item>Получить текущее местоположение</item>
+        <item>Ручной поиск местоположения</item>
+    </string-array>
+    <string-array name="temp_unit_choices">
+        <item>По Фаренгейту</item>
+        <item>По Цельсию</item>
+    </string-array>
+    <string-array name="locations_choices">
+        <item>Использование GPS для местоположения</item>
+        <item>Берлин</item>
+    </string-array>
+</resources>

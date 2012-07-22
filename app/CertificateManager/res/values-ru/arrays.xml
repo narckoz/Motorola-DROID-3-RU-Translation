@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="filter_labels">
+        <item>Все сертификаты</item>
+        <item>Сертификаты, добавленные пользователем</item>
+        <item>Предварительно загруженные сертификаты</item>
+    </string-array>
+    <string-array name="details_options_labels">
+        <item>Удалить</item>
+        <item>Экспортировать на SD-карту</item>
+    </string-array>
+</resources>

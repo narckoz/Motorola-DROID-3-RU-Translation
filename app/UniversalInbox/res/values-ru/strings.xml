@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Универсальный почтовый ящик</string>
+    <string name="edit_activity_name">Редактировать универсальный почтовый ящик</string>
+    <string name="no_messages">Нет сообщений</string>
+    <string name="loading_list">Загрузка...</string>
+    <string name="multi_media_message">Мультимедийное сообщение</string>
+    <string name="menu_edit_accounts">Редактировать универсальный почтовый ящик</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="delete_threads_confirm_title">Удалить разговоры</string>
+    <string name="delete_threads_confirm_message">Ваш выбор содержит разговоры. Вы хотите удалить их?</string>
+    <string name="move_error_title">Не удается переместить элементы</string>
+    <string name="move_error_message">Только email сообщения одного аккаунта могут быть перемещены в папку.</string>
+</resources>

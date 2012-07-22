@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="recent_call_types">
+        <item>Все вызовы</item>
+        <item>Пропущенные вызовы</item>
+        <item>Принятые вызовы</item>
+        <item>Исходящие вызовы</item>
+    </string-array>
+    <string-array name="restriction_recent_call_types">
+        <item>Все вызовы</item>
+        <item>Пропущенные вызовы</item>
+        <item>Принятые вызовы</item>
+        <item>Исходящие вызовы</item>
+        <item>Заблокированные вызовы</item>
+    </string-array>
+</resources>

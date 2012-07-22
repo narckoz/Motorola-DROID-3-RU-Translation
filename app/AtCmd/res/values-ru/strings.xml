@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="perm_desc">Позволяет обеспечить утверждение более конкретного поставщика atcmd через плагин.</string>
+    <string name="perm_label">Включить плагин atcmd</string>
+</resources>

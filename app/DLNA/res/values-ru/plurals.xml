@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="NNNtrackstoplayqueue">
+        <item quantity="other">%1$d композиций добавлено в очередь воиспроизведения</item>
+        <item quantity="one">1 композиция добавлена в очередь воиспроизведения</item>
+    </plurals>
+    <plurals name="NNNdownloaded">
+        <item quantity="other">\u0020загружены из\u0020</item>
+        <item quantity="one">\u0020загружен из\u0020</item>
+    </plurals>
+</resources>

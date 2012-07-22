@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Сообщения</string>
+    <string name="loading_widget_name">СООБЩЕНИЯ</string>
+    <string name="settings_title">Виджет сообщений</string>
+    <string name="checking">Проверка новых сообщений...</string>
+    <string name="checking_short">Проверка...</string>
+    <string name="delete">Удалить</string>
+    <string name="go_to_messages">К сообщениям</string>
+    <string name="go_to_inbox">К входящим сообщениям</string>
+    <string name="no_messages">Нет новых непрочитанных сообщений</string>
+    <string name="no_messages_short">Нет новых</string>
+    <string name="select_account">Выбрать аккаунт</string>
+    <string name="no_subject">(Без темы)</string>
+    <string name="reply">Ответить</string>
+    <string name="reply_all">Ответить всем</string>
+    <string name="show_items">Показать элементы за</string>
+    <string name="services">Сервисы</string>
+    <string name="all_services">Все сервисы</string>
+    <string name="subject_re_prefix">Re:</string>
+    <string name="text_message">Текстовое сообщение</string>
+    <string name="widget_name">Название виджета</string>
+    <string name="widget_description">Получить последние сообщения друзей, родственников и коллег</string>
+    <string name="msg_did_you_know_title">Виджеты сообщений</string>
+    <string name="msg_did_you_know_info">Виджеты сообщений показывают последние emailы, текстовые сообщения, и сообщения соц. сетей все вместе в одном виджете. \n\nВы можете изменить отображение информации каждого виджета.Нажмите кнопку Меню и выберите Настройки.</string>
+    <string name="blank_widget_name">Имя виджета не может быть пустым.</string>
+    <string name="message_download_failed_body">Выберите сообщение и попробуйте снова.</string>
+    <string name="message_widget_touch_to_view">Нажмите для просмотра сообщения.</string>
+    <string name="message_not_available_touch_to_read">Просмотр сообщения невозможен.\nНажмите здесь для прочтения сообщения.</string>
+    <string name="message_thread_information">%1$d из %2$d непрочитано</string>
+    <string name="view_message">Показать сообщение</string>
+    <string name="mark_read">Читать пометки</string>
+    <string name="mark_unread">Не читать пометки</string>
+    <string name="contact_info">Контактная информация</string>
+    <string name="inbox">Входящие</string>
+    <string name="compose">Создать</string>
+    <string name="more">Больше</string>
+    <string name="hide">Спрятать</string>
+    <string name="push_error_message">Пожалуйста, щелкните здесь, чтобы отправить нам журнал.</string>
+    <string name="marked_unread">Сообщение отмечено непрочитанными.</string>
+    <string name="marked_read">Сообщение отмечено как прочтенное.</string>
+</resources>

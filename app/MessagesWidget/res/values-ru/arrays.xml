@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>:\'(</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Высунутый язык</item>
+        <item>Удивленный</item>
+        <item>Целующий</item>
+        <item>Кричащий</item>
+        <item>Круто</item>
+        <item>Деньги во рту</item>
+        <item>В рот мне ноги</item>
+        <item>Смущенный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачущий</item>
+        <item>Не могу говорить</item>
+        <item>Смех</item>
+        <item>Спутанный</item>
+    </string-array>
+    <string-array name="show_items">
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>3 дня</item>
+        <item>1 неделя</item>
+        <item>1 месяц</item>
+        <item>Согласно доступной памяти</item>
+    </string-array>
+</resources>

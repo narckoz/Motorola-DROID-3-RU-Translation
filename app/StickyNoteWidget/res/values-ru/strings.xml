@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="widget_body_hint">Нажмите, чтобы изменить...</string>
+    <string name="sticky_note">Заметки</string>
+    <string name="widget_description">Сохранить заметку на главном экране</string>
+    <string name="title">Название</string>
+    <string name="note">Примечание</string>
+    <string name="menu_discard">Отменить изменения</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="menu_share">Отправить</string>
+    <string name="select">Выбрать</string>
+    <string name="widget_load_error">Проблема с заметкой. Пожалуйста, удалите ее.</string>
+    <string name="widget_body_elipse">...</string>
+    <string name="share_note">Отправить заметку</string>
+    <string name="cannot_share">Ошибка обмена заметками!</string>
+</resources>

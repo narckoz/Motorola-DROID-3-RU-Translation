@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="audio_device_list">
+        <item>Стерео гарнитура</item>
+        <item>Стерео динамик</item>
+        <item>Моно гарнитура или динамик</item>
+    </string-array>
+    <array name="pref_headset_effect_entries">
+        <item>Стерео 3D</item>
+        <item>Домашний кинотеатр</item>
+        <item>Сцена</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_headset_effect_sumarries">
+        <item>Превращение стерео в объемный звук</item>
+        <item>Создать эффект домашнего кинотеатра с мульти-динамиками</item>
+        <item>Создать эффект клуба</item>
+        <item>Персональные настройки Объема и Эквалайзера</item>
+    </string-array>
+    <array name="pref_speaker_effect_entries">
+        <item>Стерео 3D</item>
+        <item>Домашний кинотеатр</item>
+        <item>Сцена</item>
+        <item>@string/pref_effect_custom_item</item>
+    </array>
+    <string-array name="pref_speaker_effect_sumarries">
+        <item>Превращение стерео в объемный звук</item>
+        <item>Создать эффект домашнего кинотеатра с мульти-динамиками</item>
+        <item>Создать эффект клуба</item>
+        <item>Персональные настройки Объема и Эквалайзера</item>
+    </string-array>
+    <string-array name="pref_headset_surround_entries">
+        <item>Живой</item>
+        <item>Насыщенный</item>
+        <item>Окружающий</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="pref_headset_surround_summarries">
+        <item>Создать атмосферу большой комнаты</item>
+        <item>Расширение стереоэффекта</item>
+        <item>Создать естественный звук</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_speaker_surround_entries">
+        <item>Живой</item>
+        <item>Насыщенный</item>
+        <item>Окружающий</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="pref_speaker_surround_summarries">
+        <item>Создать атмосферу большой комнаты</item>
+        <item>Расширение стереоэффекта</item>
+        <item>Создать естественный звук</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_entries">
+        <item>Насыщенные басы</item>
+        <item>Ударные басы</item>
+        <item>Сбалансированный</item>
+        <item>Сопрано</item>
+        <item>Вокал</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="pref_headset_equalizer_summaries">
+        <item>Усиление басов</item>
+        <item>Плотный бас, усиление с точным управлением басом</item>
+        <item>Выделение средних инструмнтов</item>
+        <item>Усиление сопрано</item>
+        <item>Выделение вокала и речи</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_entries">
+        <item>Насыщенные басы</item>
+        <item>Ударные басы</item>
+        <item>Сбалансированный</item>
+        <item>Сопрано</item>
+        <item>Вокал</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="pref_speaker_equalizer_summaries">
+        <item>Усиление басов</item>
+        <item>Плотный бас, усиление с точным управлением басом</item>
+        <item>Выделение средних инструмнтов</item>
+        <item>Усиление сопрано</item>
+        <item>Выделение вокала и речи</item>
+        <item></item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_entries">
+        <item>Насыщенные басы</item>
+        <item>Ударные басы</item>
+        <item>Сбалансированный</item>
+        <item>Сопрано</item>
+        <item>Вокал</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="pref_mono_equalizer_summaries">
+        <item>Усиление басов</item>
+        <item>Плотный бас, усиление с точным управлением басом</item>
+        <item>Выделение средних инструмнтов</item>
+        <item>Усиление сопрано</item>
+        <item>Выделение вокала и речи</item>
+        <item></item>
+    </string-array>
+</resources>

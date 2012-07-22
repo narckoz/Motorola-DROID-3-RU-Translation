@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Глобальное отключение</string>
+    <string name="global_unplug_t">Отключено</string>
+    <string name="global_unplug">Отключите зарядное устройство от сети для экономии энергии.</string>
+    <string name="global_inductive_plug_t">Зарядка</string>
+    <string name="global_inductive_plug">Подключено к индуктивному зарядному устройству.</string>
+    <string name="global_inductive_unplug_t">Отключено</string>
+    <string name="global_inductive_unplug">Отключено от индуктивного зарядного устройства.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="successfull_save_message">
+        <item quantity="other">Вложения сохранены</item>
+        <item quantity="one">Вложение сохранено</item>
+    </plurals>
+    <plurals name="sdcard_error_message">
+        <item quantity="other">Вложения не могут быть сохранены, так как SD-карта отсутствует.\n\nВставьте SD-карту.</item>
+        <item quantity="one">Вложение не может быть сохранено, так как SD-карта отсутствует.\n\nВставьте SD-карту.</item>
+    </plurals>
+    <plurals name="generic_error_message">
+        <item quantity="other">Одно или несколько вложений не удалось сохранить.\n\nПопробуйте еще раз.</item>
+        <item quantity="one">Не удалось сохранить вложение.\n\nПопробуйте еще раз.</item>
+    </plurals>
+    <plurals name="confirm_delete_multiple_message">
+        <item quantity="other">%1$d сообщ. будет удалено.</item>
+        <item quantity="one">1 сообщение будет удалено.</item>
+    </plurals>
+    <plurals name="messages_protected_toast">
+        <item quantity="other">%1$d сообщ. защищено.</item>
+        <item quantity="one">1 сообщение защищено.</item>
+    </plurals>
+    <plurals name="messages_unprotected_toast">
+        <item quantity="other">Снята защита с %1$d сообщ.</item>
+        <item quantity="one">Снята защита с 1 сообщения.</item>
+    </plurals>
+</resources>

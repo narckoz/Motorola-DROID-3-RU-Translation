@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="temp_units">
+        <item>по Цельсию</item>
+        <item>по Фаренгейту</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="days_of_week_abbreviated">
+        <item>Пон</item>
+        <item>Втр</item>
+        <item>Срд</item>
+        <item>Чтв</item>
+        <item>Птн</item>
+        <item>Сбт</item>
+        <item>Вск</item>
+    </string-array>
+</resources>

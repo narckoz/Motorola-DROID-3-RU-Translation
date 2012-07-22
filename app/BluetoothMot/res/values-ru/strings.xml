@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">BluetoothDun</string>
+    <string name="hide_button_label">Спрятать</string>
+    <string name="disconnect_button_label">Отсоединить</string>
+    <string name="status_title_label">Раздача интернета</string>
+    <string name="status_device_label">Устройство:</string>
+    <string name="status_time_elapsed_label">Затрачено времени:</string>
+    <string name="status_status_label">Статус:</string>
+    <string name="status_active_label">Активно</string>
+    <string name="notification_dun_label">Совместный доступ в Интернет</string>
+    <string name="notification_dun_description">Нажмите для отключения</string>
+    <string name="dun_acceptance_dialog_label">Принимать входящие DUN соединения</string>
+    <string name="dun_acceptance_dialog_title">Запрос совместного доступа в Интернет</string>
+    <string name="dun_acceptance_dialog_content">Разрешить %s подключиться к службе совместного доступа в Интернет?</string>
+    <string name="dun_acceptance_dialog_checkbox">Разрешать всегда?</string>
+    <string name="alert_dialog_yes">Да</string>
+    <string name="alert_dialog_no">Нет</string>
+    <string name="dun_reject">Модем занят. Другая DUN сессия активна.</string>
+    <string name="map_app_name">Bluetooth карта</string>
+    <string name="map_acceptance_dialog_title">%1$s запрашивает доступ к Вашим сообщениям. Разрешить доступ клиенту %2$s?</string>
+    <string name="map_acceptance_dialog_header">Сообщение доступа к профилю</string>
+    <string name="map_acceptance_timeout_message">Время вышло, для того чтобы подтвердить соединение с %1$s</string>
+    <string name="map_bluetooth_transfer_text">Не удалось успешно установить Обмен Сообщениями с</string>
+    <string name="map_toast_connected">%1$s запрашивает доступ к Вашим сообщениям</string>
+    <string name="map_toast_disconnected">%1$s последним имел доступ к Вашим сообщениям</string>
+    <string name="alwaysallowed">Разрешать всегда?</string>
+    <string name="defaultname">Carkit</string>
+    <string name="map_notif_ticker">Сообщение запроса на доступ</string>
+    <string name="map_notif_title">MAP запрос</string>
+    <string name="map_notif_message">Показывать сообщение о доступе %1$s</string>
+</resources>

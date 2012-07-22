@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Привет Мир!</string>
+    <string name="app_name">Служба управления данными</string>
+    <string name="perm_label">Разрешить устанавливать план данных</string>
+    <string name="perm_desc">Позволяет приложению устанавливать план данных для DataManagerService</string>
+    <string name="backgrounddata_warning_message">Для защиты данных, ваш администратор отключил фоновые данные в роуминге. При необходимости можно вручную синхронизировать данные в роуминге.</string>
+    <string name="backgrounddata_notification_title">Фоновая передача данных отключена</string>
+    <string name="backgrounddata_dialog_title">Уведомление фоновых данных</string>
+    <string name="backgrounddata_dialog_message">Ваш администратор заблокировал фоновую передачу данных в роуминге. При необходимости можно вручную синхронизировать данные в роуминге.</string>
+    <string name="ok">Ок</string>
+</resources>

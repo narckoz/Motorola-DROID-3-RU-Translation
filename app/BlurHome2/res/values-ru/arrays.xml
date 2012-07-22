@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="apps_group_sort_options">
+        <item>По алфавиту</item>
+        <item>Часто используемые</item>
+        <item>Последние</item>
+    </string-array>
+    <string-array name="apps_group_name">
+        <item>AT&amp;amp;T</item>
+        <item>Связь</item>
+        <item>Избранное</item>
+        <item>Игры</item>
+        <item>Музыка</item>
+        <item>Навигация</item>
+        <item>Изображения &amp;amp; Видео</item>
+        <item>Производительность</item>
+        <item>Социальные</item>
+        <item>Приложения T-Mobile</item>
+        <item>Утилиты</item>
+        <item>Приложения Verizon</item>
+    </string-array>
+    <string-array name="nscreen_labels_list">
+        <item>1 Панель</item>
+        <item>2 Панели</item>
+        <item>3 Панели</item>
+        <item>4 Панели</item>
+        <item>5 Панелей</item>
+    </string-array>
+    <string-array name="decomp_landf_list">
+        <item>Неиспользуемый</item>
+    </string-array>
+    <string-array name="refresh_rate_label_list">
+        <item>Каждые полсекунды</item>
+        <item>Каждую секунду</item>
+        <item>Каждые 2 секунды</item>
+        <item>Каждые 5 секунд</item>
+        <item>Каждые 10 секунд</item>
+    </string-array>
+</resources>

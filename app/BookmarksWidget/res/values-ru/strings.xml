@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Виджет Закладки</string>
+    <string name="bookmark">Закладка</string>
+    <string name="widget_desc">Визуальные закладки</string>
+    <string name="url">url</string>
+    <string name="setup">Установки</string>
+    <string name="listscreen">Виджет Закладки</string>
+    <string name="listtext">Выберите закладки для этого виджета</string>
+</resources>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Без анимации</item>
+        <item>Использовать анимацию всегда</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Анимация в окне не отображается</item>
+        <item>Плавные переходы при переключении между окнами</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+        <item>Без тайм-аута</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>Английский (США)</item>
+        <item>Английский (Великобритания)</item>
+        <item>Французский</item>
+        <item>Немецкий</item>
+        <item>Итальянский</item>
+        <item>Испанский</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Подключение...</item>
+        <item>Аутентификация...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск...</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Не защищена</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Канал 1</item>
+        <item>Канал 2</item>
+        <item>Канал 3</item>
+        <item>Канал 4</item>
+        <item>Канал 5</item>
+        <item>Канал 6</item>
+        <item>Канал 7</item>
+        <item>Канал 8</item>
+        <item>Канал 9</item>
+        <item>Канал 10</item>
+        <item>Канал 11</item>
+        <item>Канал 12</item>
+        <item>Канал 13</item>
+        <item>Канал 14</item>
+    </string-array>
+    <string-array name="timer">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>Не отключать</item>
+    </string-array>
+    <string-array name="num_devices">
+        <item>2 устройства</item>
+        <item>3 устройства</item>
+        <item>4 устройства</item>
+        <item>5 устройств</item>
+        <item>Максимум устройств</item>
+    </string-array>
+    <string-array name="wifi_security_for_adhoc_entries">
+        <item>Авто</item>
+        <item>Нет</item>
+        <item>WEP</item>
+    </string-array>
+    <string-array name="wifi_security_without_auto_for_adhoc_entries">
+        <item>Нет</item>
+        <item>WEP</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Хороший</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>При выключении экрана</item>
+        <item>Никогда, если есть питание от сети</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Начать подсчет</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="hdmi_format_entries">
+        <item>Авто</item>
+        <item>480P @ 60Hz</item>
+        <item>720P @ 60Hz</item>
+        <item>576P @ 50Hz</item>
+        <item>720P @ 50Hz</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Выкл.</item>
+        <item>Оповещение</item>
+        <item>Виброзвонок</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Внутренняя память устройства</item>
+        <item>Съемная SD-карта</item>
+        <item>На усмотрение системы</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>Только в режиме без звука</item>
+        <item>Только не в режиме без звука</item>
+    </string-array>
+    <string-array name="double_tap_entries">
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Контакты</item>
+        <item>Быстрый набор</item>
+        <item>Gmail</item>
+        <item>Карты</item>
+        <item>Сервисы сообщений</item>
+        <item>Музыка</item>
+        <item>Новости</item>
+        <item>Соц. сети</item>
+        <item>Текстовые сообщения</item>
+        <item>Голосовые команды</item>
+        <item>Голосовой поиск</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="double_tap_deblur_entries">
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Контакты</item>
+        <item>Телефон</item>
+        <item>Gmail</item>
+        <item>Карты</item>
+        <item>Сообщения</item>
+        <item>Музыка</item>
+        <item>SMS/MMS</item>
+        <item>Голосовые команды</item>
+        <item>Голосовой поиск</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="location_privacy_policy_entries">
+        <item>Только E911</item>
+        <item>Стандартное местоположение</item>
+        <item>Популярные местоположения</item>
+    </string-array>
+    <string-array name="location_privacy_policy_summaries">
+        <item>Используется только для экстренных вызовов</item>
+        <item>Местоположение определяется по GPS спутнику и/или мобильной сети</item>
+        <item>Улучшить определение местоположения используя A-GPS, предпочтительная служба</item>
+    </string-array>
+    <string-array name="media_sync_storage_items">
+        <item>Память телефона</item>
+        <item>SD-карта</item>
+    </string-array>
+    <string-array name="location_settings_entries">
+        <item>Настройка разблокировки</item>
+        <item>Настройка блокировки</item>
+    </string-array>
+    <string-array name="call_restriction_settings_entries">
+        <item>Разрешить все звонки</item>
+        <item>Разрешить звонки только от ваших контактов</item>
+        <item>Блокировать все звонки</item>
+    </string-array>
+    <string-array name="message_restriction_settings_entries">
+        <item>Разрешить все сообщения</item>
+        <item>Блокировать все сообщения</item>
+    </string-array>
+    <string-array name="dialup_restriction_entries">
+        <item>Разрешить dial-up модем</item>
+        <item>Блокировать dial-up модем</item>
+    </string-array>
+    <string-array name="unlock_methods_entries">
+        <item>Нет</item>
+        <item>Блокировка рисунком</item>
+        <item>Блокировка паролем</item>
+    </string-array>
+    <string-array name="lock_timer_entries">
+        <item>Когда дисплей выключен</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>3 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+    </string-array>
+</resources>

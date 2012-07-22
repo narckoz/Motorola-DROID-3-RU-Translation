@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">ContactsData</string>
+    <string name="mms_body">Отправил вам MMS сообщение</string>
+    <string name="motoBlurProfileName">Адресная книга</string>
+    <string name="motoBlurUnconnectedProfileName">Легкая адресная книга</string>
+    <string name="phoneContactsProfileName">Контакты телефона</string>
+    <string name="simContactsProfileName">Контакты SIM</string>
+    <string name="call_restiction_addcontact">Звонки ограничены. Невозможно добавить контакт в записную книгу.</string>
+    <string name="call_restiction_editcontact">Звонки ограничены. Записная книга не может быть отредактирована.</string>
+    <string name="call_restiction_deletecontact">Звонки ограничены. Записная книга не может быть удалена.</string>
+    <string name="call_restiction_updatecontact_tools">Звонки ограничены. Обновление записной книги не доступно.</string>
+</resources>

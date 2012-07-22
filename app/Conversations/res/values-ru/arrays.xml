@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="sms_priority_modes">
+        <item>Нормальный</item>
+        <item>Срочный</item>
+    </string-array>
+    <string-array name="text_size_options">
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Крупный</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Обмен сообщениями</string>
+    <string name="menu_manage_accounts">Управление аккаунтами</string>
+    <string name="menu_edit_universal_accounts">Изменить универсальный почтовый ящик</string>
+    <string name="menu_preferences">Настройки сообщений</string>
+    <string name="preferences_title">Настройки</string>
+    <string name="pref_accounts_settings_title">Настройки сообщений</string>
+    <string name="text_messaging_settings_label">Сообщения</string>
+    <string name="email_settings_label">Email</string>
+    <string name="sn_messaging_settings_label">Социальные сообщения</string>
+</resources>

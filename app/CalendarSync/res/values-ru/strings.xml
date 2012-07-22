@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Служба календаря</string>
+    <string name="format_accepted">Подтверждено: %1$s</string>
+    <string name="format_canceled">Отменено: %1$s</string>
+    <string name="format_declined">Отклонено: %1$s</string>
+    <string name="format_new">%1$s</string>
+    <string name="format_tentative">Попытки: %1$s</string>
+    <string name="format_updated">Обновлено: %1$s</string>
+    <string name="no_such_event">Это событие недоступно.</string>
+    <string name="no_such_message">Не удается найти событие.</string>
+</resources>

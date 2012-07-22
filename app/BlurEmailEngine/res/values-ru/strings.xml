@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Email Engine</string>
+    <string name="possible_imap_sent_folders">Отправленные, Отправленные сообщения, Отправленные элементы</string>
+    <string name="possible_imap_trash_folders">Корзина, Удаленные сообщения, Удаленные элементы</string>
+    <string name="gmail_imap_sent_folder">Отправленные письма</string>
+    <string name="gmail_imap_trash_folder">Корзина</string>
+    <string name="truncated_mime_headers_body">-- Сообщение было обрезано. --</string>
+    <string name="no_default_account">Нет email аккаунта по умолчанию</string>
+    <string name="email_send_failure">Не удалось отправить Email</string>
+    <string name="new_single_email_ticker_text">%1$s %2$s</string>
+    <string name="new_multi_email_ticker_text">%1$d новые сообщения</string>
+    <string name="new_single_email_title_text">%1$s (%2$s)</string>
+    <string name="new_single_email_details_text">%1$s</string>
+    <string name="new_multi_email_title_text">%1$s</string>
+    <string name="new_multi_email_details_text">%1$d новые сообщения</string>
+    <string name="new_email_unknown_sender">Неизвестный отправитель</string>
+    <string name="email_error_send_ticker_text">%1$s сообщение не отправлено</string>
+    <string name="email_error_sync_ticker_text">%1$s ошибка аккаунта</string>
+    <string name="out_of_office_error_ticker_text">%1$s ошибка вне программы</string>
+    <string name="email_error_sending_title_text">%1$s сообщение не отправлено</string>
+    <string name="email_error_sync_title_text">%1$s</string>
+    <string name="email_error_cert_title_text">Неверный сертификат</string>
+    <string name="email_error_auth_not_provisionable_title_text">%1$s ошибка инициализации</string>
+    <string name="out_of_office_title_text">%1$s</string>
+    <string name="email_error_server_error_details_text">Ошибка сервера</string>
+    <string name="email_error_over_quota_details_text">Место на сервере</string>
+    <string name="email_error_config_details_text">Ошибка конфигурации аккаунта</string>
+    <string name="email_error_auth_details_text">Ошибка идентификации</string>
+    <string name="email_error_auth_send_details_text">Ошибка идентификации отправления</string>
+    <string name="email_error_auth_rcv_details_text">Ошибка идентификации получения</string>
+    <string name="email_error_auth_not_provisionable_details_text">Пожалуйста, обратитесь к администратору</string>
+    <string name="email_error_cert_details_text">Нажмите для получения дополнительной информации</string>
+    <string name="email_error_sending_details_text">Нажмите, чтобы просмотреть сообщение</string>
+    <string name="email_error_connection_details_text">Ошибка соединения</string>
+    <string name="out_of_office_error_details_text">ошибка вне программы</string>
+    <string name="conversation_subject_strip_prefixes">re:|fw:|fwd:</string>
+    <string name="mot_eas_device_admin_label">Motorola Corporate Sync</string>
+    <string name="mot_eas_device_admin_description">Разрешенный сервер - указан в политике безопасности</string>
+</resources>

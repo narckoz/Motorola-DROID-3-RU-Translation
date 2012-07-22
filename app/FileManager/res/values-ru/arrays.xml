@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="select_add_server_way">
+        <item>Введите имя или IP-адрес</item>
+        <item>Сканировать</item>
+    </string-array>
+    <string-array name="add_server_indicater">
+        <item>Добавить сервер</item>
+    </string-array>
+    <string-array name="progress_dialog_indicater">
+        <item>Сканировать домены...</item>
+        <item>Сканировать серверы...</item>
+        <item>Подключиться к серверу...</item>
+        <item>Загрузка...</item>
+    </string-array>
+    <string-array name="sort_by_method_selector">
+        <item>По имени</item>
+        <item>По типу</item>
+        <item>По дате</item>
+        <item>По размеру</item>
+    </string-array>
+</resources>

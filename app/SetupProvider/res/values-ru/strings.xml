@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Данные аккаунтов</string>
+    <string name="blur_accounts">Аккаунты сервиса Motorola</string>
+    <string name="as_pretty_name">Корпоративная синхронизация</string>
+    <string name="blur_pretty_name">Сервис Motorola</string>
+    <string name="yahoo_pretty_name">Yahoo! Почта</string>
+    <string name="email_login_label">Email|myemail@domain.com</string>
+    <string name="as_login_label">Домен\\Имя|Домен\\Имя</string>
+    <string name="blur_login_label">Email|myemail@domain.com</string>
+    <string name="yahoo_login_label">Email|myemail@yahoo.com</string>
+</resources>

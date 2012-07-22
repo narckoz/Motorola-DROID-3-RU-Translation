@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="status_bar_priority_events_title">Очередность</string>
+    <string name="app_label">Панель уведомлений</string>
+    <string name="status_bar_clear_all_button">Очистить</string>
+    <string name="status_bar_no_notifications_title">Нет уведомлений</string>
+    <string name="status_bar_ongoing_events_title">Текущие</string>
+    <string name="status_bar_latest_events_title">Уведомления</string>
+    <string name="battery_low_title">Подключите зарядное устройство</string>
+    <string name="battery_low_subtitle">Низкий уровень заряда батареи,</string>
+    <string name="battery_low_percent_format">Осталось %d%% или меньше.</string>
+    <string name="battery_low_why">Расход заряда батареи</string>
+    <string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к устройству USB?</string>
+    <string name="usb_device_confirm_prompt">Открыть %1$s при подключении этого устройства USB?</string>
+    <string name="usb_accessory_confirm_prompt">Открыть %1$s при подключении этого устройства USB?</string>
+    <string name="usb_accessory_uri_prompt">Нет приложений, работающих с этим устройством USB. Подробнее об устройстве: %1$s</string>
+    <string name="title_usb_accessory">USB-устройство</string>
+    <string name="label_view">Просмотр</string>
+    <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
+</resources>

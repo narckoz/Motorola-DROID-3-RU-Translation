@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="cg_stackview_lib_views">
+        <item>Альбомы</item>
+        <item>Расположения</item>
+        <item>Метки</item>
+        <item>Часовые пояса</item>
+        <item>Безопасность</item>
+    </string-array>
+    <string-array name="cg_stackview_lib_views_ori">
+        <item>Альбомы</item>
+        <item>Расположения</item>
+        <item>Метки</item>
+        <item>Часовые пояса</item>
+    </string-array>
+    <string-array name="cg_stackview_web_album_views">
+        <item>Альбомы</item>
+        <item>Расположения</item>
+        <item>Метки</item>
+        <item>Часовые пояса</item>
+    </string-array>
+    <string-array name="cg_stackview_timline_views">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="view_by_options_day">
+        <item>Ничего</item>
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="view_by_options_stream">
+        <item>Значение</item>
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="album_view_by">
+        <item>A-Я</item>
+        <item>Дата</item>
+    </string-array>
+    <string-array name="tag_view_by">
+        <item>A-Я</item>
+    </string-array>
+    <string-array name="online_location_view_by">
+        <item>A-Я</item>
+    </string-array>
+    <string-array name="location_view_by">
+        <item>A-Я</item>
+        <item>Карта</item>
+    </string-array>
+    <string-array name="selected_contacts">
+        <item>Все контакты</item>
+        <item>Выберите контакты</item>
+        <item>Выберите группы</item>
+        <item>Подключение ко мне</item>
+    </string-array>
+    <string-array name="show_items">
+        <item>1 день</item>
+        <item>2 дня</item>
+        <item>3 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="albumnavigatepicker_tags_spinner">
+        <item>Мои метки</item>
+    </string-array>
+    <string-array name="albumnavigatepicker_folders_spinner">
+        <item>Папки</item>
+    </string-array>
+    <string-array name="navi_spinner">
+        <item>Все изображения</item>
+        <item>Мои снимки</item>
+        <item>Мои метки</item>
+        <item>Все видео</item>
+        <item>Папки</item>
+    </string-array>
+    <string-array name="navi_img_spinner">
+        <item>Все изображения</item>
+        <item>Мои снимки</item>
+        <item>Мои метки</item>
+        <item>Папки</item>
+    </string-array>
+    <string-array name="navi_video_spinner">
+        <item>Мои снимки</item>
+        <item>Мои метки</item>
+        <item>Все видео</item>
+        <item>Папки</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_choices">
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_choices">
+        <item>Затухающий</item>
+        <item>Слайд слева</item>
+        <item>Качели</item>
+        <item>Вперед</item>
+        <item>Сжатие и растягивание</item>
+    </string-array>
+    <string-array name="pref_dock_picture_source_choices">
+        <item>Изображение</item>
+        <item>Все изображения</item>
+        <item>Мои снимки</item>
+        <item>Помеченый альбом</item>
+        <item>Папка</item>
+    </string-array>
+    <string-array name="pref_dock_picture_source_summaries">
+        <item>Фотографии будут отображаться по одной.</item>
+        <item>Все фотографии будут отображаться в слайд-шоу.</item>
+        <item>Все ваши снятые фотографии будут отображаться в слайд-шоу.</item>
+        <item>Фотографии из альбома с метками будет отображаться в слайд-шоу.</item>
+        <item>Фотографии из одной папки будут отображаться в слайд-шоу.</item>
+    </string-array>
+    <string-array name="pref_dock_slide_show_timer_choices">
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+    </string-array>
+</resources>

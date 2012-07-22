@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Выбор</string>
+    <string name="separator">,</string>
+    <string name="downloaded_apps">Загрузить приложения</string>
+    <string name="social_network_photo_sharing">Поделиться фотографиями</string>
+    <string name="social_network_video_sharing">Поделиться видео</string>
+    <string name="social_network_mixed_sharing">поделиться фото и видео</string>
+</resources>

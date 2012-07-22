@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="usb_cancel">Отмена</string>
+    <string name="usb_configure">Настроить</string>
+    <string name="usb_toast_connecting_to">Подключение в режиме:</string>
+    <string name="usb_toast_phone_data_disabled">Данные телефона отключены.</string>
+    <string name="usb_no_memory_card_notification_title">Карта памяти не вставлена</string>
+    <string name="usb_no_memory_card_notification_message_title">Отсутствует карта памяти</string>
+    <string name="usb_no_memory_card_notification_message">Пожалуйста, вставьте карту памяти</string>
+    <string name="usb_selection_notification_title">USB-соединение</string>
+    <string name="usb_selection_notification_message">Выберите для управления USB-соединением.</string>
+    <string name="usb_selection_notification_message_for_modem">Косн. для откл. и открытия внутр. данных телефона</string>
+    <string name="usb_connection">USB-соединение</string>
+    <string name="usb_tethering_title">Идет совместный доступ к интернету</string>
+    <string name="usb_tethering_message">Пока подключение через USB используется для разделения доступа к интеренет, вы не можете выбрать другой режим подключения USB</string>
+    <string name="usb_mode_msc">USB-накопитель</string>
+    <string name="usb_mode_modem">Модем</string>
+    <string name="usb_mode_none">Только зарядка</string>
+    <string name="usb_toast_insert_card">Вставьте карту памяти для ваших медиа.</string>
+    <string name="usb_progress_message">Переключение на</string>
+    <string name="usb_error_message">USB-соединение не может измениться на</string>
+    <string name="default_usb_disk_name">Съемный диск</string>
+    <string name="usb_device_plug_title">%1$s подключено</string>
+    <string name="usb_device_plug_title_no_name">USB-накопитель подключен</string>
+    <string name="usb_device_plug_message">Выберите для копирования файлов с/на телефон.</string>
+    <string name="usb_device_checking_title">Подготовка USB-накопителя</string>
+    <string name="usb_device_checking_message">Проверка на ошибки...</string>
+    <string name="usb_device_unmountable_title">USB-накопитель размонтирован</string>
+    <string name="usb_device_unmountable_message">Пожалуйста, проверьте USB-накопитель.</string>
+    <string name="usb_device_nofs_title">USB-накопитель не содержит файловой системы</string>
+    <string name="usb_device_nofs_message">Пожалуйста, проверьте USB-накопитель.</string>
+    <string name="usb_device_bad_removal_dialog_title">Отключено</string>
+    <string name="usb_device_bad_removal_dialog_message">USB-накопитель устройства %1$s был отключен неправильно.\n\nВы должны всегда извлекать устройство, перед отключением.</string>
+    <string name="usb_device_format_dialog_title">Форматировать USB-накопитель</string>
+    <string name="usb_device_format_dialog_message">Нажите ОК для форматирования USB-накопителя. Все данные будут удалены!</string>
+    <string name="usb_device_host_title">USB-накопитель</string>
+    <string name="usb_device_host_message">USB-накопитель %1$s сейчас подключен. Вы можете копировать данные на это устройство.\n\nВы должны извлечь устройство перед отключением.</string>
+    <string name="file_manager">Файловый менеджер</string>
+    <string name="eject">Извлечь</string>
+</resources>

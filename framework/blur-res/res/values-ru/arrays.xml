@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="message_errors">
+        <item>Получен неверный ответ</item>
+        <item>Сохранение успешно</item>
+        <item>Неверные параметры</item>
+        <item>Указанный файл существует</item>
+        <item>Исходный файл не найден</item>
+        <item>Ограничение на размер файла мало</item>
+        <item>Неверный или неподдерживамый файл</item>
+        <item>Батарея критически разряжена</item>
+        <item>Память критически заполнена</item>
+        <item>Запуск не удался: причина неизвестна</item>
+        <item>Ошибка сохранения: ошибка ввода/вывода</item>
+        <item>Ошибка сохранения: путь не создан</item>
+        <item>Ошибка сохранения: файл не создан</item>
+        <item>Ошибка сохранения: свободное место заканчивается</item>
+        <item>Сохранение отменено</item>
+        <item>Запуск не удался: размер экрана не поддерживается</item>
+        <item>Исходный файл удален</item>
+        <item>Извлечена карта SD</item>
+        <item>К сожалению, вы не можете добавить это видео в ваше сообщение</item>
+    </string-array>
+    <string-array name="show_family_updates_for">
+        <item>Выбрать группу семьи</item>
+        <item>Выбрать контакты семьи</item>
+    </string-array>
+    <string-array name="provider_action_labels">
+        <item>Тыкнуть</item>
+    </string-array>
+</resources>
